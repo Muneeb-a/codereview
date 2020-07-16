@@ -23,3 +23,7 @@ BC
 1. motor
 2. physics
 3. chamistry
+
+- [] 125
+- [x] 127 
+- [x] 129
