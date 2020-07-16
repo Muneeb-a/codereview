@@ -27,3 +27,10 @@ BC
 - [] 125
 - [x] 127 
 - [x] 129
+
+1.Physics
+  - biophysics
+  - molecularPhysics
+2. Computer
+   1. AI
+   2. CNC
