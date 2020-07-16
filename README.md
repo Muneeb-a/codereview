@@ -35,6 +35,6 @@ BC
    1. AI
    2. CNC
    
-   ~ hello~
+   ~hello~
    
    
